@@ -1,0 +1,87 @@
+/*
+* Style Arowpress for Elementor
+*/
+@charset "UTF-8";
+
+$rtl: 1;
+$dir: rtl !default;
+$text_color: #6c677c;
+$font-default: 'Poppins';
+$heading-color : #474747;
+$primary_color : #58468c;
+$highlight_color : #fb6692;
+
+@mixin transition ($transition) {
+  -webkit-transition: $transition;
+  -moz-transition:    $transition;
+  -o-transition:      $transition;
+  transition:         $transition;
+}
+
+// flexbox
+@mixin flexbox() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+@mixin flex-direction-column() {
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+@mixin justify-content($justify-content) {
+  -webkit-justify-content: $justify-content;
+  justify-content: $justify-content;
+}
+
+// @mixin
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+@mixin transitions($transitions){
+    -webkit-transition: $transitions;
+    -moz-transition: $transitions;
+    -ms-transition: $transitions;
+    -o-transition: $transitions;
+    transition: $transitions;
+}
+@mixin transform($transforms) {
+     -moz-transform: $transforms;
+       -o-transform: $transforms;
+      -ms-transform: $transforms;
+  -webkit-transform: $transforms;
+          transform: $transforms;
+}
+@mixin animation($animation) {
+     -moz-animation: $animation;
+       -o-animation: $animation;
+      -ms-animation: $animation;
+  -webkit-animation: $animation;
+          animation: $animation;
+}
+
+/* Team Members */
+@import "widget/directional";
+@import "widget/team-members";
+@import "widget/icon-box";
+@import "widget/accordion";
+@import "widget/heading-modern";
+@import "widget/banner";
+@import "widget/timeline";
+@import "widget/shortcode";
+@import "widget/pricing-table";
+@import "widget/testimonial";
+@import "widget/slides";
+@import "widget/advance-tabs";
+@import "widget/contact-form";
+@import "widget/header";
+@import "widget/blog";
+@import "widget/portfolio";
+@import "widget/service";
+@import "widget/counter";
+@import "widget/images-carousel";
+@import "widget/responsive";

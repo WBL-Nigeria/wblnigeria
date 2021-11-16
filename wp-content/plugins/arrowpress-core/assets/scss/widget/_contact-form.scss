@@ -1,0 +1,204 @@
+.apr-cf7{
+    label{
+        width: 100%;
+    } input[type="submit"]{
+        display: block;
+    }
+    .form-name {
+        margin-bottom: 21px;
+        letter-spacing: 0.025em;
+        img{
+            margin-#{$left}: 2px;
+            margin-top: -6px;
+        }
+    }
+    .form-info {
+        margin-bottom: 41px;
+        font-size: 15px;
+    }
+    .wpcf7-form-control.wpcf7-text {
+        border-radius: 5px;
+        background: transparent;
+        padding: 0 18.5px;
+        margin: 5px 0 10px -1px;
+    }
+    .wpcf7-form-control.wpcf7-textarea {
+        height: 166px;
+        resize: none;
+        padding: 15px 19px;
+        border-radius: 5px;
+        margin: 5px 0 10px -1px;
+    }
+    .wpcf7-form {
+        .wpcf7-form-control-wrap {
+            input::placeholder {
+                font-family: "Poppins";
+                letter-spacing: 0.025em;
+            }
+        }
+        p {
+            margin-bottom: 1px;
+        }
+        .form-submit {
+            margin-top: 19px;
+            width: 100%;
+            &:before {
+                background-color: transparent;
+                top: 6px;
+            }
+            input[type="submit"] {
+                padding: 14px 67px 38px 40px;
+                background: #fb6692;
+                border: 1px solid #fb6692;
+                text-transform: none;
+                letter-spacing: 0.05em;
+                &:active, &:hover {
+                    background-color: #58468c;
+                    border: 1px solid #58468c;
+                }
+            }
+        }
+    }
+}
+
+.apr-cf7-button-justify .apr-cf7 .wpcf7-form .form-submit:before,
+.apr-cf7-button-center .apr-cf7 .wpcf7-form .form-submit:before {   
+    right: 33.4%;
+}
+.apr-cf7-button-left .apr-cf7 .wpcf7-form .form-submit:before {
+    left: 33%;
+}
+
+.apr-cf7-button-center{
+    input[type="submit"]{
+        margin: auto;
+    }
+}
+.apr-cf7-button-right{
+    input[type="submit"]{
+        margin-#{$left}: auto;
+    }
+}
+.apr-cf7-button-justify{
+    input[type="submit"]{
+        width: 100%;
+    }
+}
+div.wpcf7 .ajax-loader {
+    #{$right}: 15px;
+    top: 50%;
+    position: absolute;
+    @include transform(translateY(-50%));
+}
+span.wpcf7-not-valid-tip {
+    font-size: 12px;
+}
+.elementor-widget.toggle-contact {
+    position: absolute;
+    background: $primary_color;
+    width: 63px !important;
+    height: 63px;
+    border-radius: 100%;
+    text-align: center;
+    line-height: 60px;
+    top: 6px;
+    cursor: pointer;
+    z-index: 2;
+    #{$left}: -102px; 
+    .elementor-icon{
+        vertical-align: middle;
+    }
+}
+.toggle-contact.active + .elementor-widget-Apr_Core_Contact_Form {
+    opacity: 0;
+    visibility: hidden;
+}
+.humburger-content.contact-info.active {
+    opacity: 1;
+    visibility: visible;
+}
+.toggle-contact.active i:before{
+    content: "\e622";
+}
+.humburger-content.contact-info {
+    padding: 0;
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    &:active{
+        opacity: 1;
+    }
+    h5{
+        font-size: 25px;
+        font-weight: 600;
+        letter-spacing: 0.025em;
+        margin-bottom: 22px;
+        display: inline-block;
+        position: relative;
+        &:before{
+            position: absolute;
+            content: "";
+            #{$left}: calc(100% + 9px);
+            top: 0;
+            width: 30px;
+            height: 28px;
+            background: url('../images/img-contact.png') no-repeat; 
+        }
+    }
+    p{
+        margin-bottom: 65px;
+        font-size: 15px;
+    }
+    ul.list-info-contact li {
+        padding-bottom: 23px;
+        font-size: 15px;
+        &:after{
+            content: none;
+        }
+        a{
+            font-size: 15px;
+        }
+    }
+}
+.elementor-widget.elementor-widget-Apr_Core_Contact_Form:not(:last-child) {
+    margin-bottom: 0;
+}
+
+@media (max-width: 1024px){
+    .elementor-widget.toggle-contact {
+        width: 40px !important;
+        height: 40px;
+        text-align: center;
+        line-height: 38px;
+        #{$left}: -50px;
+    }
+    .elementor-widget.toggle-contact .elementor-icon {
+        font-size: 18px !important;
+    }
+    .elementor-widget.toggle-contact {
+        #{$left}: -48px; 
+    }
+}
+@media (max-width: 767px){
+    .elementor-widget.toggle-contact {
+        #{$left}: -30px;
+        top: -55px;
+    }
+    .humburger-content.contact-info h5 {
+        font-size: 22px;
+    }
+    div.wpcf7-validation-errors, 
+    div.wpcf7-acceptance-missing {
+        margin-bottom: 50px;
+    }
+    .elementor-widget.elementor-widget-Apr_Core_Contact_Form:not(:last-child) {
+        margin-bottom: 20px;
+    }
+    .apr-cf7 .form-info,
+    .humburger-content.contact-info p {
+        margin-bottom: 20px;
+    }
+    .wpcf7-form-control.wpcf7-textarea {
+        height: 100px;
+    }
+}

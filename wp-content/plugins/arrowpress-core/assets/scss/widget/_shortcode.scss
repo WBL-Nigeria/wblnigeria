@@ -1,0 +1,58 @@
+.elementor-widget-apr_countdown {
+  .apr-countdown {
+    margin: 0 auto;
+
+    .countdown_container .countdown-section {
+      background: -moz-linear-gradient(90deg, #58468c 0%, #fb6692 100%);
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fb6692), color-stop(100%, #58468c));
+      background: -webkit-linear-gradient(90deg, #58468c 0%, #fb6692 100%);
+      background: -o-linear-gradient(90deg, #58468c 0%, #fb6692 100%);
+      background: -ms-linear-gradient(90deg, #58468c 0%, #fb6692 100%);
+      background: linear-gradient(0deg, #58468c 0%, #fb6692 100%);
+      margin: 0 5px 10px;
+    }
+
+    .countdown_container .countdown-section .countdown-number {
+      margin-top: 0;
+      padding-top: 10px;
+      position: relative;
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      color: #fff;
+
+      &:before {
+        content: " ";
+        background-color: #fb6692;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0.5;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+      }
+
+      span {
+        font-family: "Poppins";
+        position: relative;
+        z-index: 99;
+      }
+    }
+
+    .countdown_container .countdown-section .countdown-label {
+      padding-top: 5px;
+      color: #fff;
+      font-size: 18px;
+    }
+  }
+}
+.footer-04 .footer-social-networks li {
+  margin-bottom: 20px;
+}
+.footer-04 .footer-social-networks {
+  flex-wrap: wrap;
+}
+.logo-footer.widget {
+  width: 100%;
+}

@@ -1,0 +1,257 @@
+.product-slide .slick-arrow.btn-next {
+    left: 7px;
+    right: auto;
+}
+.product-slide .slick-arrow.btn-prev {
+    left: 57px;
+    right:auto;
+}
+.page-numbers:not(.next), .page-numbers:not(.prev){
+    margin-right:0;
+}
+[dir=rtl] .slick-slide {
+    float: right !important;
+}
+.text-right {
+    text-align: left !important;
+}
+input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  text-align: right !important;
+}
+input::-moz-placeholder { /* Firefox 19+ */
+ text-align: right !important;
+}
+input:-ms-input-placeholder { /* IE 10+ */
+  text-align: right !important;
+}
+input:-moz-placeholder { /* Firefox 18- */
+  text-align: right !important;
+}
+.woocommerce table.shop_table td{
+    border-right: none;
+}
+.woocommerce-product-details__short-description .view-details{
+    display: inline-block;
+    i:before{
+        content: "\f104" !important;
+    }
+}
+.woocommerce .shipping-calculator-form select{
+    background: transparent url(../images/caret-down.png) no-repeat 0% center;
+}
+.woocommerce form .form-row .optional{
+    display: inline-block;
+    float: right;
+}
+select, input[type=email], input[type=password],
+input[type=search], input[type=text], input[type=url], textarea,
+.woocommerce div.product .woocommerce-tabs .panel,
+.woocommerce div.product div.summary,
+.shop_table.order_details tfoot tr th,
+.menu-icon .menu-cate .mega-menu li,
+.return-to-shop,.cart-empty,
+.woocommerce-info, .woocommerce-message, .woocommerce-error,.woocommerce-notice,
+.woocommerce ul.order_details,
+.woocommerce .shop_table.woocommerce-checkout-review-order-table tfoot th,
+.woocommerce form .form-row .woocommerce-input-wrapper,
+.active-sidebar .widget.widget_product_categories ul.product-categories li,
+.toolbar-left,
+.woocommerce-customer-details h2, .woocommerce-order-details h2,
+.pagination-content.type-number,
+.widget_categories li,
+.list-info-contact-us,.elementor-widget-social-icons,
+.contact-info .heading-modern .heading-title,
+.contact-info .heading-modern .heading-title + .desc,
+.msg-success, .msg-error, .msg-warning,
+.box-icon.text-left .content-icon,
+.list-cat-services .widget_nav_menu ul li,
+.service-filter+.service-sort,
+.tm-posts-widget .post-widget-info,
+.woocommerce-account .woocommerce-MyAccount-content form.edit-account fieldset legend,
+.woocommerce-account .woocommerce-MyAccount-content form.edit-account,
+.woocommerce-account .woocommerce-MyAccount-content form>h3,
+.info-part,
+.woocommerce-account #customer_login h2,
+.copyright-content,
+.list-info-contact li,
+.woocommerce-account .woocommerce-MyAccount-navigation,
+.woocommerce-account .woocommerce-MyAccount-content form>h3,
+.searchform .search-no-results,.woo-list-category,
+.mega-type-2 .apr-product ul.products li .product-desc,
+.search-box .search-box__title p,.commentform .form-submit,
+.yith-woocompare-widget ul.products-list li:not( .list_empty ),.comment-reply-title,
+.widget.brand li,.mc4wp-alert p,.comments-area .comments-title,
+.woocommerce-account .woocommerce-MyAccount-content,
+.apr-banner.bn-align-right .bn-content,.bn-content,.heading-modern p.desc,
+.single-post .container .blog-content{
+ 	text-align: right;
+}
+
+.apr-banner .top-title{
+  margin-right: 0;
+}
+.testimolial-about .testimonial .testimonial-content .elementor-testimonial-desc:before{
+  left:-17px;
+}
+.woocommerce .shipping-calculator-form select{
+      background: #dfdfdf url(../images/caret-down.png) no-repeat 0% center;
+}
+.elementor-widget-apr-testimolials .elementor-widget-container{
+ background-position:0% 100% !important;
+}
+.comment-content .comment-text p:before{left:0;}
+.comment-content .comment-text p{
+  padding-left:10px;
+}
+.woocommerce-account .woocommerce-form__label span{
+  float: left;
+}
+
+.lost_password a,
+.apr-banner .btn-bn,
+label,.comment-content .comment-text p,
+.elementor-icon-box-description,
+.heading-title,
+.welcome h3,
+.apr-cf7 .form-name,
+.text-list a,
+.blog-masonry .post-name a,
+.active-sidebar .widget.widget_categories a,
+.read-more a,
+.comment-form-comment label,
+.count.box-label,
+span.label-product.on-sale.percentage span,
+.woocommerce .woocommerce-ordering label,
+.woocommerce-account .woocommerce-MyAccount-content p,
+.blog_info_ab .info a {
+    unicode-bidi: plaintext;
+}
+.woocommerce .woocommerce-ordering select{
+      background: url(../images/caret-down.png) no-repeat left 20px center;
+}
+.berocket_aapf_widget-title_div{
+  padding-right: 0 !important;
+}
+.testimonial-image .img-wrap:before,
+.instagram_title:before,
+.apr-product.product-list.list-2 .product-content .product-top .product-action{
+  transform: translateX(50%);
+  -ms-transform: translateX(50%);
+  -webkit-transform: translateX(50%);
+  -moz-transform: translateX(50%);
+  -o-transform: translateX(50%);
+}
+
+.apr-banner.bn-align-left .bn-content .bn-desc, .apr-banner.bn-align-left .bn-content .bn-title{
+  margin-left: auto;
+  margin-right: 0;
+}
+.quote_section .link-icon{
+    float: right;
+}
+.woo-list-category .children-cate li{
+  width: 100%;
+  display: inline-block;
+  float: right;
+  .label-new{
+    float: right;
+  }
+}
+.icon-list .path1:before {
+  content:none !important;
+}
+.icon-list .path15:before {
+  padding-left: 1em !important;
+}
+.footer-newsletter.newsletter-style1 .mc4wp-form-fields input[type=submit]{
+  border-top-#{$left}-radius: 30px;
+  border-bottom-#{$left}-radius: 30px;
+}
+#btn-show-social .fa fa-angle-right:before {
+    content: "\e64a";
+}
+.open-submenu .fa fa-angle-down:before {
+    content: "\e64a";
+}
+.slimScrollRail,
+.slimScrollBar{
+  right:auto !important;
+  left:0 !important;
+}
+.newsletter-section .mc4wp-form-fields .submit i.fa-long-arrow-right {
+    transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    top: 17px;
+}
+.btn{
+	border-radius: 30px;
+}
+[dir="rtl"] {
+  .slick-arrow.slick-prev {
+    @include transform(rotate(180deg) translateY(0%) !important);
+  }
+  .slick-arrow.slick-next {
+    @include transform(rotate(180deg) translateY(0%) !important);
+  }
+}
+
+.testimonial-type-6 .swiper-container-rtl .swiper-button-next,
+.testimonial-type-6 .swiper-container-rtl .swiper-button-prev,
+.counter-type1 .btn-prev,.counter-type1 .btn-next,#yith-quick-view-content .product-list-thumbnails .slick-arrow,
+.active-sidebar .widget_categories ul li:before,
+.single-product .product-extra .slick-arrow,.pagination-content.type-5 li{
+  transform: rotate(180deg) translateY(0%) !important;
+}
+.product-detail.single_3 .product-list-thumbnails .slick-arrow {
+  -webkit-transform: rotate(180deg) translateY(0%) !important;
+  transform: rotate(180deg) translateY(50%) !important;
+}
+.active-sidebar .widget.widget_product_categories ul.product-categories li:before{
+  transform: rotate(180deg) translateY(-360%) !important;
+}
+.blog-slide-2 .blog-item .blog-post-info .blog_post_desc .read-more-style4{
+  transform: rotateY(180deg);
+}
+.single-product .widget_berocket_aapf_single .berocket_aapf_widget li.slider span.left{
+  left: -30px;
+  right: auto;
+  text-align: left;
+}
+.single-product .product-extra .slick-arrow.btn-prev{
+  left: auto;
+}
+.woocommerce .product-extra ul.products:not(.product-list) .product-content .product-desc{
+  text-align: center;
+}
+.elementor-toggle .elementor-tab-title .elementor-toggle-icon.elementor-toggle-icon-right{
+  float: left !important;
+}
+.blog.post-single .box-info-comment .comment-reply{
+  padding-left: 15px;
+}
+.account-popup .nav-tabs{
+  padding-right: 40px;
+}
+.social-custom h5{
+  transform: rotate(90deg) !important;
+}
+.account-popup .nav-tabs {
+  justify-content: flex-end;
+}
+.testimonial-lampo .testimonial-type-6 .swiper-button-prev{
+  transform: rotate(180deg) translateX(-49%) !important;
+}
+.testimonial-lampo .testimonial-type-6 .swiper-button-next {
+  transform: rotate(180deg) translateX(-51%) !important;
+}
+@media (max-width: 767px){
+  .testimonial-lampo .testimonial-type-6 .swiper-button-next {
+    transform: rotate(180deg) translateX(-52%) !important;
+  }
+  .testimonial-lampo .testimonial-type-6 .swiper-button-prev {
+    transform: rotate(180deg) translateX(-48%) !important;
+  }
+}

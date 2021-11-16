@@ -1,0 +1,41 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ArrowPress Importer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-12 06:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. Author of the plugin
+msgid "ArrowPress"
+msgstr ""
+
+#. Name of the plugin
+msgid "ArrowPress Importer"
+msgstr ""
+
+#. Description of the plugin
+msgid "ArrowPress One click demo import"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://arrowpress.net/"
+msgstr ""
+
+#: arrowpress-importer.php:40 arrowpress-importer.php:46
+#: arrowpress-importer.php:53 arrowpress-importer.php:60
+#: arrowpress-importer.php:67 arrowpress-importer.php:74
+#: arrowpress-importer.php:81 arrowpress-importer.php:88
+msgid ""
+"Please waiting for a few minutes, do not close the window or refresh the "
+"page until the data is imported."
+msgstr ""
