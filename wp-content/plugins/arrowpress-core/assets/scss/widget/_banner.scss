@@ -1,0 +1,96 @@
+.apr-banner{
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    overflow: hidden;
+    .bn-content{
+        position: absolute;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+        transform: translateY(-50%);
+        p.bn-title{
+            margin-bottom: 0;
+        }
+    }
+
+        .top-title{
+            text-transform: uppercase;
+            color: #333333;
+            font-weight: 800;
+            margin-bottom: 30px;
+        }
+        .bn-before{
+            background: linear-gradient(to right, #c44860 0%, #f4ae7b 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .bn-title{
+            color: #333333;
+            font-weight: 700;
+        }
+        .bn-after{
+            font-family: 'Sail', cursive;
+            font-weight: 400;
+            font-size: 60px;
+            line-height: 58px;
+            color: rgb(51, 51, 51);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .bn-desc{
+            font-size: 18px;
+            line-height: 30px;
+            color: #948e90;
+            font-family: "Domine";
+            margin-top: 39px;
+            margin-bottom: 0;
+        }
+        .btn-bn{
+            font-size: 18px;
+            color: #333333;
+            font-weight: 700;
+            margin-top: 48px;
+            display: inline-table;
+            &:hover{
+                color: $primary_color;
+            }
+        }
+    &.bn-align-left{
+        .bn-content{
+            #{$left}: 0;
+            text-align: #{$left};
+            .bn-title, .bn-desc{
+                margin-#{$right}: auto;
+            }
+        }
+    }
+    &.bn-align-center,&.bn-align-bottom-center{
+        .bn-content{
+            text-align: center;
+            #{$left}: 0;
+            #{$right}: 0;
+            .bn-title, .bn-desc{
+                margin-#{$left}: auto;
+                margin-#{$right}: auto;
+            }
+        }
+    }
+    &.bn-align-bottom-center{
+        .bn-content{
+            .btn-bn{
+                margin-#{$right}: 1px;
+            }
+        }
+    }
+    &.bn-align-right{
+        .bn-content{
+            #{$right}: 0;
+            text-align: #{$right};
+            .bn-title, .bn-desc{
+                margin-#{$left}: auto;
+            }
+        }
+    }
+}

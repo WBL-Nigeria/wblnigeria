@@ -1,0 +1,100 @@
+.item-img-single{
+  padding: 50px 15px;
+  img{
+    margin: 0 auto;
+  }
+}
+.single-portfolio {
+  #site-main {
+    .portfolio-single {
+      .portfolio-comment{
+        padding-top: 15px;
+      }
+      .portfolio-gallery-single {
+        width: 82.9%;
+        margin: auto;
+        -webkit-box-shadow: 0 2px 29.12px 2.88px rgba(68, 65, 71, 0.03);
+        -moz-box-shadow: 0 2px 29.12px 2.88px rgba(68, 65, 71, 0.03);
+        box-shadow: 0 2px 29.12px 2.88px rgba(68, 65, 71, 0.03);
+
+        .btn-prev, .btn-next {
+          position: absolute;
+          top: 50%;
+          border: 1px solid #ded9ed;
+
+          i {
+            letter-spacing: 0.025em;
+            line-height: 15px;
+            display: block;
+            margin: 10px 15px;
+            font-size: 16px;
+          }
+        }
+
+        .btn-prev {
+          #{$left}: 3.1%;
+        }
+
+        .btn-next {
+          #{$right}: 3.1%;
+        }
+
+        .slick-dots {
+          display: table;
+          position: absolute;
+          #{$left}: 50%;
+          @include transform(translate($translateX, -50%));
+          margin: 43px 6px;
+          
+          li {
+            &:after{
+              content: none;
+            }
+            margin-#{$right}: 10px;
+          }
+        }
+        .slick-slide{
+          border-radius: 6px;
+        }
+      }
+
+      .row {
+        padding: side-values(96px 115px 106px 115px);
+
+        .portfolio-left {
+          text-align: #{$left};
+
+          .portfolios-info h1 {
+            font-size: 23px;
+            line-height: 28px;
+            letter-spacing: 0.05em;
+          }
+        }
+      }
+    }
+  }
+
+  .page-footer {
+    margin-top: 0;
+  }
+}
+
+@media (max-width: 870px) {
+  .single-portfolio {
+    #site-main {
+      .portfolio-single {
+        .row {
+          padding: 60px 11%;
+
+          .portfolio-left {
+            .portfolios-info {
+              font-size: 23px;
+              line-height: 28px;
+              letter-spacing: 0.05em;
+            }
+          }
+        }
+      }
+    }
+  }
+}

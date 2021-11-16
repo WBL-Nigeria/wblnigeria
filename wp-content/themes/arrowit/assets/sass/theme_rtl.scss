@@ -1,0 +1,50 @@
+// Make sure the charset is set appropriately
+@charset "UTF-8";
+
+$rtl: 1;
+$dir: rtl !default;
+$text_color: #6c677c;
+$font-default : Poppins;
+$font_heading : Poppins;
+$heading-color : #474747;
+$primary_color : #58468c;
+$highlight_color : #fb6692;
+
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  src: url('../fonts/fontawesome-webfont.eot');
+  src: url('../fonts/fontawesome-webfont.eot') format('embedded-opentype'),
+    //url('../fonts/fontawesome-webfont.woff2') format('woff2'),
+    url('../fonts/fontawesome-webfont.woff') format('woff'),
+    url('../fonts/fontawesome-webfont.ttf') format('truetype'),
+    url('../fonts/fontawesome-webfont.svg#fontawesomeregular') format('svg');
+//  src: url('../fonts/FontAwesome.otf') format('opentype'); // used when developing fonts
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@import "theme/directional";
+@import "theme/reset-style";
+@import "theme/style-guide";
+@import "theme/animation";
+@import "theme/base/header";
+@import "theme/base/megamenu";
+@import "theme/base/header-responsive";
+@import "theme/base/preloader";
+@import "theme/base/footer";
+@import "theme/base/widgets";
+
+@import "theme/content/product";
+@import "theme/content/single-product";
+@import "theme/content/portfolio";
+@import "theme/content/single-portfolio";
+@import "theme/content/blog";
+@import "theme/content/cart";
+@import "theme/content/error-pages";
+@import "theme/content/content_rtl";
+@import "theme/content/shipping";
+@import "theme/content/other-pages";
+@import "theme/content/home-pages";
+@import "theme/content/responsive";
+@import "theme/content/about-us";

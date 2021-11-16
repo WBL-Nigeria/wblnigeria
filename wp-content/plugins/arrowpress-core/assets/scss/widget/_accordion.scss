@@ -1,0 +1,287 @@
+/* Toggle*/
+.elementor-toggle {
+	.elementor-toggle-item {
+		margin-bottom: 18px;
+		.elementor-tab-title{
+			font-size: 18px;
+			font-weight:600;
+			display: inline-block;
+			width: 100%;
+			color: $primary_color;
+			border:none;
+			border-radius:5px;
+			background:#fff;
+			letter-spacing: 0.9px;
+			position:relative;
+		}
+		.elementor-tab-content{
+			border-bottom: none;
+			color: #716c80;
+	   	 	font-size: 16px;
+	   	 	padding:side-values(22px 0px 4px 29px);
+	   	 	letter-spacing: 0.4px;
+	   	 	line-height: 30px;
+		}
+	}
+	&.elementor-toggle-right{
+		.elementor-toggle-item {
+			.elementor-tab-title{
+				padding:side-values(17px 22px 10px 29px);
+			}
+			.elementor-toggle-icon{
+				margin-top: -3px;
+			}
+		}
+	}
+	&.elementor-toggle-left{
+		.elementor-toggle-item {
+			.elementor-tab-title{
+				padding:side-values(17px 29px 15px 50px);
+			}
+			.elementor-toggle-icon{
+				margin-top: 1px;
+				#{$left}:15px;
+			}
+			.elementor-tab-content{
+				padding-#{$left}:50px;
+			}
+		}
+	}
+}
+.elementor-toggle-icon{
+	i{
+		height: 26px;
+		width: 26px;
+		font-size: 14px;
+		border-radius: 50%;
+		color: #fff;
+		background:$highlight_color;
+		line-height: 26px;
+		text-align:center;
+		&:before{
+			margin-left:2px;
+		}
+	}
+}
+.has_icon_title {
+	.elementor-toggle {
+		.elementor-toggle-item {
+			background:#fff;
+			border-radius: 5px;
+			.elementor-tab-title{
+				padding: side-values(0);
+				background:none;
+				border-radius: 0;
+				a{	
+					position:relative;
+					display: inline-block;
+					padding:side-values(10px 0 10px 50px);
+					width: 93%;
+					> i{
+						font-size: 32px;
+						position:absolute;
+						top:50%;
+						#{$left}:0;
+						transform: translateY(-50%);
+						-ms-transform: translateY(-50%);
+						-moz-transform: translateY(-50%);
+						-webkit-transform: translateY(-50%);
+						-o-transform: translateY(-50%);
+					}
+				}
+			}
+			.elementor-tab-content{
+				padding:side-values(8px 0px 22px 49px);
+			}
+		}
+		&.elementor-toggle-right{
+			.elementor-toggle-item{
+				.elementor-toggle-icon{
+					#{$right}:-21px;
+					margin-top: 8px;
+				}
+			}
+		}
+		&.elementor-toggle-left{
+			.elementor-toggle-item{
+				padding:side-values(15px 29px 17px 50px);
+				.elementor-toggle-icon{
+					#{$left}:-21px;
+					margin-top: 2px;
+				}
+			}
+		}
+	}
+	.elementor-toggle .elementor-toggle-item{
+		margin-bottom: 20px;
+	}
+	.elementor-toggle-icon {
+		i{
+			height: auto;
+		    width: auto;
+		    font-size: 14px;
+		    border-radius: 0;
+		    color: $primary_color;
+		    background: none;
+		    text-align: center;
+		    &:before{
+		    	margin-#{$left}:0;
+		    }
+		}
+	}
+}
+
+/* Accordion*/
+.elementor-widget-accordion{
+	.elementor-accordion {
+		.elementor-accordion-item{
+			border:none !important;
+			padding-bottom: 30px;
+			padding-#{$left}:43px;
+			position:relative;
+		}
+		.elementor-tab-title{
+			background:#fff;
+			position:relative;
+			font-family: Poppins;
+			padding:side-values(17px 30px);
+			color: $primary_color;
+			font-size: 20px;
+			font-weight: 600;
+			line-height: 28px;
+			a{
+				span{
+					position:absolute;
+					top:-11px;
+					#{$left}:-43px;
+					font-size: 90px;
+					color: #fff;
+					font-weight:600;
+					line-height: 100%;
+
+				}
+			}
+		}
+		.elementor-tab-content{
+			border-top:none !important;
+			padding:side-values(51px 30px 54px);
+			background:#fff;
+			position:relative;
+			font-size: 18px;
+			color:#6c677c;
+			letter-spacing: 0.45px;
+   			line-height: 32px;
+   			font-family: Poppins;
+   			position:relative;
+   			overflow: hidden;
+   			&:before{
+   				content: "";
+   				height: 17px;
+   				width: 100%;
+   				background: rgba(233,233,251,1);
+   				position:absolute;
+   				top:0;
+   				#{$left}:-70%;
+   				background: -moz-linear-gradient(100% 100% 180deg, #bebefb, #fff);
+  				background: -webkit-gradient(linear, left top, right top, from(#bebefb), to(#fff));
+  				transform: translate(-103px, 0);
+  				-ms-transform: translate(-103px, 0);
+  				-moz-transform: translate(-103px, 0);
+  				-webkit-transform: translate(-103px, 0);
+  				-o-transform: translate(-103px, 0);
+			}
+			ul {
+				list-style: none;
+				margin-top: 20px;
+				padding-#{$left}:30px;
+				> li{
+					color:#6c677c;
+					font-size: 16px;
+					line-height: 28px;
+	   				letter-spacing: 0.4px;
+	   				position:relative;
+	   				padding:side-values(0 0 0 30px);
+	   				margin-bottom: 20px;
+	   				&:after{
+	   					content: none;
+	   				}
+	   				&:last-child{
+	   					margin-bottom: 0;
+	   				}
+					span{
+						font-weight:600;
+						color:$primary_color;
+						display: block;
+						margin-bottom: 14px;
+	   					letter-spacing: 0.8px;
+					}
+					&:before{
+						content: "";
+						height: 10px;
+						width: 10px;
+						position:absolute;
+						top:10px;
+						#{$left}:0;
+						border-radius: 50%;
+						background:$primary_color;
+					}
+				}
+			}
+		}
+		.elementor-tab-title{
+			position:relative;
+			&:not(.elementor-active){
+				&:before{
+					content: "";
+					height: calc(100% + 30px);
+					width: calc(100%);
+					background: rgba(233,233,251,0.3);
+					position: absolute;
+					top:0;
+					#{$left}:0;
+				}
+				 a span{
+				 	color:#f4f4fd;
+				 }
+			}
+		}
+	}	
+}
+@media(max-width: 767px){
+	.elementor-widget-accordion .elementor-accordion .elementor-tab-content ul{
+		margin-top: 25px;
+		padding-#{$left}:0;
+		> li{
+			margin-bottom: 20px;
+		}
+	}
+	.elementor-widget-accordion .elementor-accordion {
+		.elementor-accordion-item{
+			padding-#{$left}:35px;
+		}
+		.elementor-tab-title{
+			padding:side-values(16px 20px 20px);
+			 a span{
+			 	top: -7px;
+			    #{$left}: -35px;
+			    font-size: 60px;
+			}
+		}
+		.elementor-tab-content{
+			border-top:1px solid #e9e9fb !important;
+			padding:side-values(17px 20px 25px);
+			&:before{
+				content: none;
+			}
+		}
+	}
+}
+@media(max-width: 375px){
+	.elementor-toggle.elementor-toggle-right .elementor-toggle-item .elementor-tab-title {
+		padding: side-values(17px 25px 10px 15px);
+		font-size: 15px;
+	}
+	.faq2-wrap .elementor-toggle.elementor-toggle-right .elementor-toggle-item .elementor-tab-title {
+		padding: 0;
+	}
+}

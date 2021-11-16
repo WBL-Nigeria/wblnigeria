@@ -1,0 +1,760 @@
+.error404 {
+  #site-main {
+    width: 100%;
+    padding-top: 0;
+  }
+
+  .site-header {
+    display: none;
+  }
+
+  &.admin-bar {
+    margin-top: -32px;
+    @media (max-width: 782px) {
+      margin-top: -46px;
+    }
+    @media (max-width: 600px) {
+      margin-top: 0;
+    }
+  }
+}
+
+.page-404 {
+  width: 100%;
+  text-align: center;
+
+  .page-content-404 {
+    top: 13.4%;
+    #{$left}: 0;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+  }
+
+  .content-404 {
+    margin-bottom: 0;
+  }
+
+  .page-title {
+    font-family: $font-default;
+    font-size: 80px;
+    line-height: 50px;
+    font-weight: 500;
+    color: #000;
+    margin-bottom: 5px;
+    letter-spacing: 0.015em;
+  }
+
+  p {
+    font-family: $font-default;
+    font-size: 20px;
+    font-weight: 400;
+    margin: side-values(38px 0px 22px 0px);
+    letter-spacing: 0.025em;
+  }
+
+  .go-home {
+    background: $highlight_color;
+    border: none;
+    padding: 18px 43.625px;
+    margin-#{$right}: 15px;
+    -webkit-box-shadow: 0 2px 45px 9px rgba(60, 30, 92, 0.15);
+    -moz-box-shadow: 0 2px 45px 9px rgba(60, 30, 92, 0.15);
+    box-shadow: 0 2px 45px 9px rgba(60, 30, 92, 0.15);
+    i{
+      margin-#{$left}: 13px;
+    }
+    &:hover {
+      background: #ffffff;
+      color: $highlight_color;
+      -webkit-box-shadow: 0 0 0 0 rgba(60, 30, 92, 0.15);
+      -moz-box-shadow: 0 0 0 0 rgba(60, 30, 92, 0.15);
+      box-shadow: 0 0 0 0 rgba(60, 30, 92, 0.15);
+    }
+
+    &:before {
+      @include transitions(none !important);
+    }
+  }
+
+  .go-contact {
+    background: #ffffff;
+    border: none;
+    padding: 18px 44px;
+    i{
+      margin-#{$left}: 13px;
+    }
+    &:hover {
+      color: #ffffff;
+      background: $highlight_color;
+      -webkit-box-shadow: 0 2px 45px 9px rgba(60, 30, 92, 0.15);
+      -moz-box-shadow: 0 2px 45px 9px rgba(60, 30, 92, 0.15);
+      box-shadow: 0 2px 45px 9px rgba(60, 30, 92, 0.15);
+    }
+
+    &:before {
+      content: none;
+    }
+  }
+}
+
+.page-template-coming-soon.logged-in {
+  margin-top: -32px;
+}
+
+
+.content-coming-soon#content {
+  width: 100%;
+  position: relative;
+}
+
+.coming-soon-container {
+  background-image: url(../images/bg-coming-soon.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  padding: 100px 0;
+
+  @keyframes autofill {
+    100% {
+      color: #333 !important;
+    }
+  }
+
+  @-webkit-keyframes autofill {
+    100% {
+      color: #333 !important;
+    }
+  }
+
+  input:-webkit-autofill,
+  input:-webkit-autofill:hover,
+  input:-webkit-autofill:focus,
+  input:-webkit-autofill:active {
+    -webkit-animation: autofill 0s forwards;
+    animation: autofill 0s forwards;
+    -webkit-text-fill-color: #333 !important;
+  }
+}
+
+.page-coming-soon {
+  .mc4wp-form input[type="submit"] {
+    font-size: 16px !important;
+    letter-spacing: 0.05em;
+    color: #333333;
+    font-weight: 400;
+  }
+
+  .coming-soon {
+    padding: 100px 15px;
+    min-height: 500px;
+    position: absolute;
+    top: 56.8%;
+    z-index: 3;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    #{$left}: 0;
+    #{$right}: 0;
+
+    h1 {
+      color: #ffffff;
+      font-size: 120px;
+      font-family: $font-default;
+      font-weight: 600;
+      margin: 15px 0 0;
+      word-spacing: 25px;
+    }
+
+    .cm-info {
+      color: #333333;
+      font-size: 24px;
+      font-weight: 500;
+      font-family: $font-heading;
+      max-width: 32%;
+      margin: -5px auto 0;
+      line-height: 35px;
+    }
+  }
+
+  .coming-subcribe {
+    margin-top: 182.5px;
+    .mc4wp-form-fields {
+      width: 186px;
+      margin: auto;
+      height: 60px;
+
+      .form-submit.submit:before {
+        #{$right}: 43px;
+      }
+
+      input[type=email] {
+        color: #333;
+        font-size: 16px;
+        font-weight: 400;
+        padding-#{$left}: 34px;
+        padding-#{$right}: 155px;
+        border-color: #ccc;
+        font-family: $font-heading;
+
+        &::placeholder {
+          color: #333 !important;
+          font-size: 14px;
+          font-weight: 400;
+        }
+
+        &:-ms-input-placeholder {
+          color: #333 !important;
+          font-size: 14px;
+          font-weight: 400;
+        }
+
+        &:hover {
+          border-color: #fff;
+        }
+      }
+
+      input[type=email], input[type=submit] {
+        height: 60px;
+        line-height: 60px;
+        border: none;
+        transform: none;
+
+        &:invalid {
+          outline: none;
+          border: none;
+          background-color: #e8f0fe;
+        }
+      }
+
+      input[type=submit] {
+        margin-top: -5px;
+        padding: 0;
+        min-width: 202px;
+        font-weight: 500;
+        background-color: #fb6792;
+        text-indent: 0;
+        padding-#{$right}: 30px;
+      }
+
+      p {
+        &:first-child {
+          position: absolute;
+          width: 100%;
+          overflow: hidden;
+        }
+
+        &:last-child {
+          display: table;
+          margin: auto;
+          border: none;
+          z-index: 1;
+          color: #333;
+          #{$right}: -7px;
+          position: absolute;
+          border-radius: 30px;
+          @include transitions(all .3s);
+
+          &:after {
+            content: "";
+            height: calc(100% - 4px);
+            width: calc(100% - 4px);
+            position: absolute;
+            background: #fff;
+            #{$left}: 2px;
+            top: 2px;
+            border-radius: 30px;
+            z-index: -1;
+          }
+
+          &:hover {
+            &:after {
+              content: none;
+            }
+
+            input[type=submit] {
+              color: #fff;
+            }
+          }
+        }
+      }
+
+      &:hover {
+        width: 560px;
+        @include transitions(width .6s);
+
+        p {
+          &:first-child {
+            @include transitions(width .6s);
+            width: 100%;
+          }
+
+          &:last-child {
+            #{$right}: 0;
+            #{$left}: auto;
+            transform: none;
+          }
+        }
+      }
+    }
+
+    .mc4wp-response {
+      margin: 20px auto 0;
+      text-align: #{$left};
+      position: relative;
+      width: 600px;
+
+      .mc4wp-alert {
+        &:before {
+          top: 50%;
+          transform: translateY(-50%);
+        }
+
+        p {
+          color: #fff;
+
+          a {
+            color: #fff;
+
+            &:hover {
+              color: #000;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.countdown_container {
+  .countdown-section {
+    width: 130px;
+    background: #faf9f7;
+    border-radius: 5px;
+    height: auto;
+    display: inline-block;
+    margin: 0 5px;
+    text-align: center;
+
+    .countdown-number {
+      padding-top: 30px !important;
+      padding-bottom: 15px;
+      font-size: 50px;
+      font-family: $font-default;
+      color: #333333;
+      font-weight: 600;
+
+      span {
+        line-height: 37px;
+        display: block;
+        letter-spacing: 0;
+      }
+    }
+
+    .countdown-label {
+      padding-top: 17px !important;
+      font-size: 29.38px;
+      font-family: $font-default;
+      margin: 0 0 17px;
+      line-height: 16px;
+      letter-spacing: 0;
+      text-transform: capitalize;
+      color: #797476;
+      font-weight: 400;;
+    }
+  }
+}
+
+input[type=email], input[type=submit] {
+  &:invalid {
+    outline: none;
+  }
+}
+
+@media (max-width: 1700px) {
+  .page-coming-soon .coming-soon{
+    .cm-info {
+      max-width: 53%;
+    }
+    .coming-subcribe {
+      margin-top: 150px;
+    }
+  }
+}
+
+@media (max-width: 1400px) and (min-width: 1200px) {
+  .page-coming-soon .coming-soon .coming-subcribe {
+    margin-top: 120px;
+  }
+}
+
+@media (max-width: 1199px) {
+  .page-coming-soon {
+    .coming-soon .coming-subcribe {
+      margin-top: 90px;
+    }
+    .cm-countdown {
+      .countdown_container {
+        .countdown-section {
+          width: 130px;
+
+          .countdown-number {
+            font-size: 50px;
+            line-height: 45px;
+            margin: 0 !important;
+            padding: side-values(30px 0 15px 0 !important);
+          }
+
+          .countdown-label {
+            font-size: 18px;
+            margin: 0 0 17px !important;
+            padding: 17px 0 0 !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .page-coming-soon {
+    .coming-soon .cm-info {
+      max-width: 62%;
+    }
+
+    .coming-subcribe {
+      margin-top: 80px;
+
+      .mc4wp-form-fields p {
+        &:first-child {
+        }
+
+        &:last-child {
+          margin-#{$right}: 0;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 991px) {
+  .page-coming-soon {
+    .coming-soon {
+      margin-top: 0;
+      min-height: auto;
+
+      h1 {
+        font-size: 95px;
+      }
+
+      .cm-info {
+        max-width: 80%;
+      }
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .page-coming-soon {
+    .coming-soon {
+      h1 {
+        font-size: 70px;
+        word-spacing: 0;
+      }
+    }
+
+    .cm-countdown {
+      .countdown_container {
+        .countdown-section {
+          width: 120px;
+
+          .countdown-number {
+            font-size: 45px;
+            line-height: 45px;
+          }
+
+          .countdown-label {
+            font-size: 18px;
+          }
+        }
+      }
+    }
+
+    .coming-subcribe {
+      margin-top: 50px;
+
+      .mc4wp-form-fields {
+        input[type=submit] {
+          width: 100%;
+          font-weight: 500;
+        }
+
+        &:hover {
+          width: 75%;
+        }
+      }
+
+      .mc4wp-response {
+        width: 100%;
+      }
+    }
+  }
+  .page-404 {
+    .content-404{
+      padding: 0 15px;
+    }
+    .page-title {
+      font-size: 55px;
+      line-height: 46px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      margin: side-values(15px 0px 10px 0px);
+    }
+
+    .go-home {
+      padding: 10px 34px;
+      margin-bottom: 15px;
+    }
+
+    .go-contact {
+      padding: 10px 25px;
+      margin-bottom: 15px;
+    }
+  }
+
+}
+
+@media (max-width: 600px) {
+  .page-404 p {
+    margin: 3px 0 15px;
+  }
+}
+
+@media (max-width: 575px) {
+  .page-coming-soon {
+    .coming-soon {
+      h1 {
+        font-size: 65px;
+        line-height: 80px;
+      }
+
+      .cm-info {
+        max-width: 100%;
+        line-height: 25px;
+        margin-top: 5px;
+        font-size: 16px;
+      }
+    }
+
+    .coming-subcribe {
+      margin-top: 50px;
+
+      .mc4wp-form-fields {
+        input[type=email] {
+          padding-#{$right}: 34px;
+          margin-top: 0;
+        }
+      }
+    }
+
+    .cm-countdown .countdown_container {
+      width: 75%;
+      margin: auto;
+
+      .countdown-section {
+        width: 120px;
+        margin: 0 10px 10px;;
+
+        .countdown-number {
+          font-size: 38px;
+          line-height: 38px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 485px) {
+  .page-coming-soon {
+    .coming-soon {
+      top: 55%;
+
+      h1 {
+        font-size: 45px;
+        line-height: 60px;
+      }
+
+      .cm-info {
+        max-width: 100%;
+      }
+    }
+
+    .cm-countdown .countdown_container .countdown-section {
+      height: 85px;
+      position: relative;
+
+      .countdown-number {
+        font-size: 25px !important;
+        line-height: 20px !important;
+        position: absolute;
+        #{$left}: 0;
+        #{$right}: 0;
+        margin: 0 0 0 !important;
+        padding: 13px 0 4px 0 !important;
+
+        sapn {
+          line-height: 30px;
+        }
+      }
+
+      .countdown-label {
+        font-size: 14px !important;
+        position: absolute;
+        #{$left}: 0;
+        #{$right}: 0;
+        bottom: 10%;
+        margin: 0 0 0 !important;
+        padding: 0 0 0 !important;
+      }
+    }
+
+    .coming-subcribe {
+      width: 100%;
+      padding: 0 15px;
+
+      .mc4wp-form-fields {
+        width: 100%;
+        height: 125px;
+
+        p {
+          &:first-child {
+            position: static;
+          }
+
+          &:last-child {
+            display: block;
+            #{$right}: 0;
+            margin-top: 60px;
+            width: 100%;
+          }
+        }
+
+        input[type=email], input[type=submit] {
+          height: 40px;
+          line-height: 40px;
+        }
+
+        .form-submit.submit:before {
+          top: 0;
+        }
+      }
+    }
+  }
+  .page-404 {
+    .page-title {
+      font-size: 45px;
+    }
+  }
+  .page-coming-soon .coming-subcribe .mc4wp-form-fields:hover {
+    width: 100%;
+  }
+}
+
+@media (max-width: 449px) {
+  .page-coming-soon {
+    .cm-countdown .countdown_container {
+      width: 100%;
+      margin: auto;
+    }
+  }
+}
+@media (max-width: 415px){
+  .page-404 .go-home {
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+}
+@media (max-width: 375px) {
+  .page-coming-soon {
+    .coming-soon {
+      h1 {
+        font-size: 37px;
+        line-height: 50px;
+      }
+    }
+
+    .coming-subcribe {
+      margin-top: 40px !important;
+    }
+  }
+}
+
+@media screen and (max-height: 475px) {
+  .page-coming-soon {
+    .coming-soon {
+      top: 55%;
+    }
+
+    h1 {
+      margin-top: 0;
+      font-size: 60px !important;
+    }
+
+    .cm-countdown .countdown_container {
+      width: 100%;
+
+      .countdown-section {
+        width: 90px;
+
+        .countdown-number {
+          line-height: 45px;
+          margin: 0 !important;
+          padding: 10px 0 5px 0 !important;
+          font-size: 35px !important;
+        }
+
+        .countdown-label {
+          margin: 0 0 8.5px !important;
+          padding: 8.5px 0 0 !important;
+          font-size: 14px !important;
+        }
+      }
+    }
+
+    .coming-subcribe {
+      margin-top: 30px !important;
+
+      .mc4wp-form-fields {
+        input[type=email], input[type=submit] {
+          height: 40px;
+          line-height: 40px;
+        }
+
+        .form-submit.submit:before {
+          top: 0;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-height: 425px) {
+  .page-404{
+    .page-title{
+      font-size: 50px;
+    }
+    p{
+      font-size: 18px;
+      margin: side-values(20px 0 15px 0);
+    }
+    .go-home, .go-contact{
+      padding: 7px 20px;
+    }
+  }
+}

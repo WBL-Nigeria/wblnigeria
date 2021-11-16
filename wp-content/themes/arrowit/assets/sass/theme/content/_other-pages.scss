@@ -1,0 +1,108 @@
+.txt-lineheight30 p{
+	line-height: 30px;
+}
+.content-left-iconbox{
+	.heading-modern.heading-1 .after-title{
+		letter-spacing: 0;
+		&:before{
+			bottom: 4px;
+		}
+	}
+	
+	.elementor-text-editor{
+		line-height: 28px;
+	}
+	.btn.btn-primary{
+	    margin-top: 21px;
+	    font-size: 15px;
+	    padding: 9px 38px;
+	    display: table-caption;
+	}
+}
+.section-why-choose-us{
+	.elementor-container.elementor-column-gap-default>.elementor-row>.no-padding{
+		padding: 0;
+		&.margin-left-25{
+			margin-#{$left}: 25px;
+		}
+		&:last-child{
+			margin-#{$right}: 15px;
+		}
+	}
+}
+
+.testimolial-about{
+	.testimonial{
+		width: 62%;
+		.testimonial-content .elementor-testimonial-desc:before{
+			#{$left}: -17px;
+		}
+	}
+}
+.search {
+	.widget_search .search-form.woosearch-search .product-search{
+		padding-#{$right}: 50px;
+	}
+	.searchform .search-no-results{
+		width: calc(100% - 30px);
+	}
+}
+.contact-us-form .apr-cf7 .wpcf7-form .form-submit {
+	&:before {
+		content: none;
+	}
+	input[type=submit]{
+		padding: 14px 0 38px 0;		
+	}
+}
+@media (max-width: 1199px){
+	.search {
+		.widget_search .s-no-result-found .search-form.woosearch-search{
+			margin-bottom: 78px;
+		}
+	}
+}
+@media (max-width: 1024px){
+	.testimolial-about .testimonial {
+	    width: 100%;
+	    padding-#{$right}: 15px;
+	    .testimonial-content .elementor-testimonial-desc{
+	    	padding-#{$right}: 15px;
+	    }
+	}
+}
+@media (max-width: 1199px) and (min-width: 768px) {
+	.box-icon.icon-gradient{
+		padding: side-values(42px 20px);
+		min-height: 315px;
+	}
+}
+@media (max-width: 1024px) and (min-width: 768px) {
+	.section-why-choose-us .elementor-container.elementor-column-gap-default>.elementor-row>.no-padding{
+		&.margin-left-25{
+			margin-#{$left}: 15px;
+		}
+		width: calc((100% - 30px) / 3);
+	}
+	
+}
+@media (max-width: 767px){
+	.section-why-choose-us .elementor-container.elementor-column-gap-default>.elementor-row>.no-padding{
+		padding: side-values(0 15px);
+		&.margin-left-25{
+			margin-#{$left}: 0;
+		}
+		&:last-child{
+			margin-#{$right}: 0;
+		}
+	}
+	.welcome p{
+		font-size: 18px;
+	}
+}
+@media (max-width: 480px){
+	.welcome h3{
+		font-size: 32px;
+	}
+	
+}
