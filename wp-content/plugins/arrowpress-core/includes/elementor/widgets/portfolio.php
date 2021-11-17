@@ -901,12 +901,18 @@ industry\'s standard dummy text ever since the 1500s, when an unknown. Lorem Ips
             );
         endif;
         query_posts($apr_portfolio_type_arg);
-        $apr_post_type_query = new \ WP_Query($apr_portfolio_type_arg);
+        $apr_post_type_query = new \WP_Query($apr_portfolio_type_arg);
 
         if ($apr_post_type_query->have_posts() && ($portfolio_style=='style1' || $portfolio_style=='style2')) :
-            $items_desktop = 12 / $column_desktop;
-            $items_tablets = 12 / $column_tablet;
-            $items_mobile = 12 / $column_mobile;
+            if (intval($column_desktop) > 0) {
+                $items_desktop = 12 / intval($column_desktop);
+            }
+            if (intval($column_tablet) > 0) {
+                $items_tablets = 12 / intval($column_tablet);
+            }
+            if (intval($column_mobile) > 0) {
+                $items_mobile = 12 / intval($column_mobile);
+            }
             $id = 'apr-portfolio-' . wp_rand();
             $current_page = get_query_var('paged') ? intval(get_query_var('paged')) : 1;
             ?>

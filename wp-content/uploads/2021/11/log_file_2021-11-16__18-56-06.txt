@@ -1,0 +1,1580 @@
+
+---Downloaded files---
+The import files for: Base Content were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/wblsite
+Data file = C:\xampp\htdocs\wblsite/wp-content/themes/arrowit/inc/data/content.xml
+Widget file = C:\xampp\htdocs\wblsite/wp-content/themes/arrowit/inc/data/widget.wie
+Customizer file = C:\xampp\htdocs\wblsite/wp-content/themes/arrowit/inc/data/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag 8BIT
+[WARNING] Failed to import yith_product_brand AKG
+[WARNING] Failed to import product_tag Alignment
+[WARNING] Failed to import yith_product_brand Apple
+[WARNING] Failed to import product_tag Articles
+[WARNING] Failed to import product_tag Aside
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gold
+[WARNING] Failed to import yith_product_brand Grado
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Headphone
+[WARNING] Failed to import yith_product_brand HTC
+[WARNING] Failed to import yith_product_brand LG
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import pa_color Pink
+[WARNING] Failed to import pa_color Purple
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import yith_product_brand Sam Sung
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import yith_product_brand Sony
+[WARNING] Failed to import product_cat Sony
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Violet
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Beat
+[WARNING] Failed to import "Color": Invalid post type br_product_filter
+[WARNING] Failed to import "Price": Invalid post type br_product_filter
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+---pt-ocdi/before_widgets_import---
+Import Widget
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+Custom HTML - No Title - Imported
+[APR] Posts - Recent Projects - Imported
+[APR] Latest Tweet - Recent Tweets - Imported
+Categories - Categories - Imported
+[APR] Facebook Page Plugin - Find us on Facebook - Imported
+
+Shop Sidebar : 
+
+woocommerce_product_categories - Categories - Site does not support widget
+berocket_aapf_single - No Title - Site does not support widget
+[APR] Brands - Brands - Imported
+berocket_aapf_single - No Title - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+woocommerce_product_tag_cloud - Tags - Site does not support widget
+Meta - No Title - Imported
+Recent Comments - No Title - Imported
+RSS - RSS - Imported
+
+Shop Sidebar Left : 
+
+woocommerce_product_categories - Categories - Site does not support widget
+[APR] Brands - Brands - Imported
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+woocommerce_product_tag_cloud - Tags - Site does not support widget
+Meta - No Title - Imported
+Recent Comments - No Title - Imported
+RSS - RSS - Imported
+
+Shop Sidebar Right : 
+
+woocommerce_product_categories - Categories - Site does not support widget
+[APR] Brands - Brands - Imported
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+woocommerce_product_tag_cloud - Tags - Site does not support widget
+Meta - No Title - Imported
+Recent Comments - No Title - Imported
+RSS - RSS - Imported
+
+Footer1 top : 
+
+[APR] Logo - No Title - Imported
+Navigation Menu - No Title - Imported
+mc4wp_form_widget - No Title - Site does not support widget
+
+Footer1 : 
+
+[APR] Social - About us - Imported
+[APR] Contact - Contact Info - Imported
+[APR] Posts - Recent Projects - Imported
+
+Footer2 top : 
+
+mc4wp_form_widget - Newsletter - Site does not support widget
+[APR] Elementor Template - No Title - Imported
+
+Footer2 : 
+
+[APR] Contact - No Title - Imported
+
+Footer3 left : 
+
+Text - Contact Form - Imported
+
+Footer3 right : 
+
+[APR] Contact - Contact info - Imported
+Navigation Menu - Company - Imported
+Navigation Menu - Quick Link - Imported
+[APR] Social - Follows Us - Imported
+
+Footer4 top : 
+
+[APR] Elementor Template - No Title - Imported
+
+Footer4 left : 
+
+[APR] Social - About us - Imported
+[APR] Contact - Contact info - Imported
+
+Footer4 right : 
+
+Custom HTML - Quick query - Imported
+
+Footer5 : 
+
+Custom HTML - No Title - Imported
+mc4wp_form_widget - Subscribe to newsletter - Site does not support widget
+
+Footer6 : 
+
+Text - No Title - Imported
+Text - Send a message - Imported
+[APR] Contact - Contact us - Imported
+Text - No Title - Imported
+
+Footer7 top : 
+
+[APR] Elementor Template - No Title - Imported
+
+Footer7 : 
+
+[APR] Social - About us - Imported
+Recent Posts - No Title - Imported
+[APR] Posts - Recent Projects - Imported
+
+Footer8 : 
+
+[APR] Elementor Template - No Title - Imported
+
+Humburger Menu Sidebar : 
+
+Image - No Title - Imported
+Text - Select Sidearea - Imported
+[APR] Posts - No Title - Imported
+[APR] Contact - Contact info - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+Delete Default Post and Page \n

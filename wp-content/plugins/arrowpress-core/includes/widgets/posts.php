@@ -105,7 +105,7 @@ if ( ! class_exists( 'Apr_Core_Posts_Widget' ) ) {
 				);
 			}
 			query_posts($query_args);
-			$apr_query = new WP_Query( $query_args );
+			$apr_query = new \WP_Query( $query_args );
 			if ( $apr_query->have_posts() ) {
 				$count        = $apr_query->post_count;
 				$i            = 0;
