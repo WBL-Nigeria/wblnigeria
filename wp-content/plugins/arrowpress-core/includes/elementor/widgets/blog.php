@@ -941,7 +941,7 @@ class Apr_Core_Blog extends Widget_Base {
         
         query_posts($apr_post_type_arg);
         global $wp_query;
-        $apr_post_type_query = new WP_Query($apr_post_type_arg);
+        $apr_post_type_query = new \WP_Query($apr_post_type_arg);
 
         if ( $apr_post_type_query->have_posts() ) :
         $id =  'apr-blog-'.wp_rand();
